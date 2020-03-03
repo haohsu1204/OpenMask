@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  OpenMask
+
+  Created by House on 2020/2/29.
+  Copyright © 2020 haohsu. All rights reserved.
+*/
+
+"hint_search"="藥局名稱、地址搜尋";
+"hint_update_time"="資料更新時間 %@";
